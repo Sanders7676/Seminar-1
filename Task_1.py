@@ -17,16 +17,18 @@
 # n = int(input())
 # m = int(input())
 
-n = 700
+# n = 700
 
-m = 1400
+# m = 1400
 
-if m % n == 0:
+# if m % n == 0:
 
-    result = m // n
-else:
-    result = m // n + 1
+#     result = m // n
+# else:
+#     result = m // n + 1
 
-print(f'Чтобы проехать {n}км машине потребуется {result}дн')
+# print(f'Чтобы проехать {n}км машине потребуется {result}дн')
 
-print('Чтобы проехать {0}км машине потребуется {1}дн'.format(n, result))
+# print('Чтобы проехать {0}км машине потребуется {1}дн'.format(n, result))
+
+print (5)
